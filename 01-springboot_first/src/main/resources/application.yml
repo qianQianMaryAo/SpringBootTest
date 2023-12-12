@@ -1,0 +1,4 @@
+#server:
+#  port: 82
+#优先级 properties>yml>yaml
+#yaml不提示  project structure===>facts====>spring==>绿色添加键  添加为spring boot的配置文件

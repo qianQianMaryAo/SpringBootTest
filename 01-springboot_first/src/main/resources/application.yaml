@@ -1,0 +1,12 @@
+server:
+  port: 83
+
+lesson: springboot
+
+enterprise:
+  name: 222
+  age: 32
+  subject:
+    - music
+    - read
+    - play
